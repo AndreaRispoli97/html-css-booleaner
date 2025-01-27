@@ -1,5 +1,24 @@
-div {
+#pluto {
     background-color: rgb(23, 164, 220);
     background-image: url('/img/pattern.png');
-    background-size: 40%;
+    background-size: 25%;
+    height: 100px;
+}
+
+#logo {
+    height: 50px;
+}
+
+h1 {
+    font-size: 44px;
+}
+
+#pippo {
+    font-style: italic;
+}
+
+#topolino {
+    font-synthesis-small-caps: all-small-caps;
+    font-style: italic;
+    font-size: 10px;
 }
