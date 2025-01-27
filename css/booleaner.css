@@ -36,3 +36,21 @@ h1 {
 #paperoga {
     background-color: rgb(143, 226, 249);
 }
+
+#alessia {
+    background-image: url('/img/monitor.jpg');
+    background-repeat: no-repeat;
+    background-size: 15%;
+    height: 300px;
+}
+
+#andrea {
+    background-image: url('/img/graph.jpg');
+    background-repeat: no-repeat;
+    background-size: 15%;
+    height: 300px;
+}
+
+#tartaruga {
+    color: white;
+}
